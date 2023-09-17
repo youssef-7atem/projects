@@ -14,7 +14,8 @@ another option if the guest was already a member of the onwers house he can ente
 
 3- part 3 is the owner controlling every light in the home and the air conditing system using a temprature sensor to activate the ac when the temprature is too cold or too hot and measure the current room temp 
 
-![Light](https://github.com/youssef-7atem/projects/assets/141189859/108c2bef-4b73-4e45-844d-ce88212beacc)
+![Light](https://github.com/youssef-7atem/projects/assets/141189859/43775b3c-a56f-4c1c-b937-43a99c29a3ad)
+
 
 Components :
 - 3 ATmega32 microcontroller
