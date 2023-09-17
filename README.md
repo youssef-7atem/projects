@@ -33,7 +33,7 @@ log in system
 LDR system
 Door
 Buzzer system
-Control 4 rooms
+Control 6 rooms
 Control air conditioner in 2 modes related to the temperature measured by temperature sensor or using that button
 
 Drivers used:
