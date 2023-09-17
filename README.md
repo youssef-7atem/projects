@@ -26,7 +26,7 @@ Components :
 -LDR Light intensity sensor
 - Motors & LEDs& resistances
 -Servo Motor
--buzzer & speaker
+-buzzer 
 
 The system have:
 log in system
